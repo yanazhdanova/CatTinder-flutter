@@ -75,3 +75,5 @@
 ![IMG_5316.PNG](assets%2FIMG_5316.PNG)
 ![IMG_5317.PNG](assets%2FIMG_5317.PNG)
 ![IMG_5318.PNG](assets%2FIMG_5318.PNG)
+
+[APK](https://github.com/yanazhdanova/CatTinder-flutter/releases/download/v1.0/app-release.apk)
