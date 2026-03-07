@@ -32,6 +32,12 @@ dependencies:
     sdk: flutter
   http: ^1.2.0
   cached_network_image: ^3.3.1
+  shared_preferences: ^2.2.3
+  get_it: ^7.6.0
+  flutter_secure_storage: ^9.0.0
+
+  equatable: ^2.0.5
+  provider: ^6.0.0
 
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
@@ -41,6 +47,8 @@ dev_dependencies:
   flutter_test:
     sdk: flutter
 
+  mockito: ^5.4.4
+  build_runner: ^2.4.6
 
   # The "flutter_lints" package below contains a set of recommended lints to
   # encourage good coding practices. The lint set provided by the package is
@@ -62,6 +70,7 @@ flutter:
   uses-material-design: true
   assets:
     - assets/icon_cattinder.png
+    - assets/onboarding_cat.png
 
   # To add assets to your application, add an assets section, like this:
   # assets:
